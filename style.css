@@ -1,0 +1,33 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px gray;
+}
+.Note{
+    font: size 18px;
+    color:black;
+}
+.copy_right_footer{
+    position:fixed;
+    color: white;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    background-color:gray;
+    text-align:center;
+}
+.copy_right_footer:hover{
+    background-color:black;
+    font-size:25px;
+}
+canvas{
+    border:5px soild black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+body{
+    background-image:url("https://c.tenor.com/AE5cg4I3P6sAAAAC/clouds-purple.gif");
+    background-size:cover;
+    background-position:center;
+}
